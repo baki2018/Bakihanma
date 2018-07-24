@@ -6,6 +6,8 @@ public class TestCon {
 		
 		Constar c = new Constar(5);
 		System.out.println("... "+c.getNum());
+		
+		System.out.println("... "+c.getNum());
 	}
 
 }
